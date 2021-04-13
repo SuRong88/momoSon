@@ -8,7 +8,7 @@
 				<text>{{countdown.d + ' 天 ' + countdown.h + ' 时 ' + countdown.m + ' 分 ' + countdown.s + ' 秒'}}</text>
 			</view>
 			<view class="img-box">
-				<image wx:if="{{!momo}}" class="img" src="https://img.bazhuay.com/1618308340554_965.gif" mode="aspectFill"></image>
+				<image wx:if="{{!momo}}" class="img" src="https://img.bazhuay.com/1618322137057_435.jpeg" mode="aspectFill"></image>
 				<video wx:else class="video" src="https://img.bazhuay.com/1618308324320_71.mp4" autoplay loop="false"></video>
 			</view>
 		</view>
