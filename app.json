@@ -1,6 +1,8 @@
 {
-    "pages": [
-        "pages/index/index",
-        "pages/ripple/ripple"
-    ]
+  "pages": [
+    "pages/downtime/downtime",
+    "pages/index/index",
+    "pages/ripple/ripple"
+  ],
+  "sitemapLocation": "sitemap.json"
 }
