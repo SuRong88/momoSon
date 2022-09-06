@@ -3,7 +3,7 @@ Page({
 	data: {
 		countdown: {},
 		momo: false,
-		endDate2: "2021-09-01 00:00:00",
+		endDate2: "2023-09-01 00:00:00",
 	},
 	/* 生命周期函数--监听页面加*/
 	onLoad(options) {

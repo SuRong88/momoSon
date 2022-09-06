@@ -1,7 +1,8 @@
 <view class="container flex flex-ver flex-align-center">
 	<view class="content">
-		<view class="title">
-			外省仔归家倒时
+		<view class="title-wrap">
+			<view class="title">外省仔归家倒时</view>
+			<view class="desc">累计归家说谎次数：5次</view>
 		</view>
 		<view class="main">
 			<view class="time">
